@@ -17,7 +17,7 @@ Lazarus IDE, see the build instructions for [Cheat Engine](https://github.com/ch
     1. Clone [Cheat Engine](https://github.com/cheat-engine/cheat-engine) source code from master branch
     2. Copy [`plugin.pas`](https://github.com/kaijia2022/cheatengine-extended-sdk/blob/main/Cheat%20Engine/plugin.pas) 
     3. replace `plugin.pas` in the source code you just cloned.
-    4. Build the cheat engine with lazarus IDE.
+    4. Build with lazarus IDE.
 
 - For users who want to use older versions of cheat engine, if you have the source code of your corresponding version, repeat steps 2-4 from above.
 
